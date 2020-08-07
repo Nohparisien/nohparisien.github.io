@@ -1,0 +1,57 @@
+body {
+    background-color: beige;
+    height: 100vh;
+    display: flex;
+    margin: 0;
+    text-align: center;
+    background-image: url(casinoo.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+  
+  .a1 {
+    background-image: url(roulette.jpg);
+    /*background-color: rgb(240, 21, 21);*/
+    height: 90%;
+    width: 60%;
+    margin: auto;
+  }
+  
+  #a2{
+    width: 20%;
+    height: 5%;
+  }
+  
+  #a3{
+    width:20% ;
+    height: 3%;
+  }
+  
+  .b1{
+    width: 13%;
+    height: 3%;
+  }
+  
+  .b1:hover
+  {
+    width: 15%;
+    height: 4%;
+  }
+  main {
+    background-color: rgb(151, 87, 4);
+    margin: auto;
+    padding: 5px;
+    border-radius: 5px;
+    width: 35%;
+  }
+  
+  h1 {
+    color: rgb(199, 193, 193);
+    text-decoration: underline;
+  }
+  
+  #montant {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+  }
